@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(99, 163, 237);
+}
+
+h1{
+    background-color: greenyellow;
+    height: 150px;
+    width: 1450px;
+     text-align: center;
+}
+h2{
+    text-align: center;
+}
+a{
+    color: black;
+}
+
+h3{
+    text-align: center;
+}
+
+img{
+    height: 300px;
+    width: 280px;
+    position: relative;
+    left: 600px;
+}
+
+p{
+    text-align: justify;
+}
+
+div{
+    text-align: center;
+}
